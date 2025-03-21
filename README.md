@@ -56,4 +56,4 @@ Insights into Passenger Survival Trends
 
 ## Conclusion:
 
-This project effectively demonstrates how machine learning can analyze historical data to uncover patterns and make predictions. By leveraging data preprocessing, feature selection, and model evaluation, we gained valuable insights into survival factors during the Titanic disaster. The results highlight the significant role of class, gender, and age in determining survival probabilities. The model's findings align with historical records, showing how data-driven approaches can provide meaningful interpretations of real-world events.
+This task effectively demonstrates how machine learning can analyze historical data to uncover patterns and make predictions. By leveraging data preprocessing, feature selection, and model evaluation, we gained valuable insights into survival factors during the Titanic disaster. The results highlight the significant role of class, gender, and age in determining survival probabilities. The model's findings align with historical records, showing how data-driven approaches can provide meaningful interpretations of real-world events.
